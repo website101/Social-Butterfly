@@ -4,18 +4,26 @@ Social-Butterfly
 Sleek Social Media Sharing Plugin for Wordpress
 
 **Contributors**: website101.net
+
 **Tags**: social media, social media sharing, bookmark, bookmarking, bookmarks, buttons, button, Facebook, free, google, Like, link, linkedin, links, media, plugin, Post, posts, Share, sharing, social, social like, social share, social sharing, twitter, widget, pinterest, pin
+
 **Requires at least**: 3.0.1
+
 **Tested up to**: 4.9
+
 **Stable tag**: 1.11
+
 **Author URI**: http://www.website101.net
+
 **Plugin URI**: http://www.website101.net/social-butterfly-sleek-social-media-sharing-plugin-for-wordpress/
+
 **License**: GPLv2 or later
+
 **License URI**: http://www.gnu.org/licenses/gpl-2.0.html
 
 Social Butterfly is a sleek and attractive social media sharing plugin offering users a unique, compact and enticing way to share your content.
 
-== Description ==
+### Description
 
 [Social Butterfly](http://www.website101.net/social-butterfly-sleek-social-media-sharing-plugin-for-wordpress/) is a sleek and attractive social media sharing plugin for WordPress, offering users a unique, compact and enticing way to share your content. The plugin is lightweight, secure, and allows for easy integration above and below content on all posts (customizable in plugin settings) as well as simple post override settings (ex: show or hide social butterfly on an individual post).
 
