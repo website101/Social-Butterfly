@@ -27,11 +27,11 @@ Social Butterfly is a sleek and attractive social media sharing plugin offering 
 
 [Social Butterfly](http://www.website101.net/social-butterfly-sleek-social-media-sharing-plugin-for-wordpress/) is a sleek and attractive social media sharing plugin for WordPress, offering users a unique, compact and enticing way to share your content. The plugin is lightweight, secure, and allows for easy integration above and below content on all posts (customizable in plugin settings) as well as simple post override settings (ex: show or hide social butterfly on an individual post).
 
+**New Feature: Retina quality icons!**
+
 **Now with Pinterest!**
 
-**New Feature: Custom Colors** Easily customize colors to match your site.
-
-**New Feature: Retina quality icons**
+**New Feature: Custom Colors!** Easily customize colors to match your site.
 
 **Demo & Detailed Instructions:** [visit plugin homepage](http://www.website101.net/social-butterfly-sleek-social-media-sharing-plugin-for-wordpress/).
 
@@ -64,7 +64,7 @@ Let's say you want to include the plugin on all your posts except for a couple. 
 1. Set Social Butterfly to not show on this particular post (uncheck).
 1. Update your post. That's all!
 
-== Changelog ==
+### Changelog
 = 1.11 =
 * Bug fix
 
